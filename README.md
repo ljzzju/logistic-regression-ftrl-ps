@@ -1,6 +1,6 @@
 1. Introduction
 
-Distributed LR With Parameter Server
+	Distributed LR With Parameter Server
 
 2. Install
 
