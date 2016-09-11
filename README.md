@@ -1,38 +1,37 @@
 1. Introduction
 
-	Distributed LR With Parameter Server
+Distributed LR With Parameter Server
 
 2. Install
 
-	step 1. in the logistic-regression-ftrl-ps 
+step 1. in the logistic-regression-ftrl-ps 
 
-		cd /repo/ps-lite
+    cd /repo/ps-lite
 
-	step 2.
+step 2.
 
-		cp third_party/* .
+    cp third_party/* .
 
-	step 3.
+step 3.
 
-		make
+    make
 
-	step 4.
+step 4.
 
-		cd /repo/dmlc-core
+    cd /repo/dmlc-core
 
-		make
+    make
 
-	step 5.
+step 5.
 
-		cd logistic-regression-ftrl-ps
+    cd logistic-regression-ftrl-ps
 
-		make
+    make
     
 
 3. Contact:
-
     2012wxs@gmail.com
 
-4. References:
+4.. References:
 [1] Ad Click Prediction: a View from the Trenches:http://dl.acm.org/citation.cfm?id=2488200
 
